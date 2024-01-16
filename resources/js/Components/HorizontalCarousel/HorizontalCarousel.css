@@ -1,0 +1,17 @@
+/* Estilos del carrusel */
+.horizontal-carousel {
+    width: 80%; /* Ancho deseado para el carrusel */
+    margin: 0 auto; /* Centra el carrusel horizontalmente */
+  }
+  
+  /* Estilos de las imágenes */
+  .horizontal-photos {
+    width: 100%; /* Haz que las imágenes ocupen el ancho del contenedor */
+    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+    display: block; /* Asegura que las imágenes estén en una línea separada */
+    margin: 0 auto; /* Centra las imágenes dentro del carrusel */
+  }
+
+  .horizontal-carousel:hover {
+    cursor: pointer;
+  }

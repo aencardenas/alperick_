@@ -1,0 +1,19 @@
+.category-button {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: lightgrey;
+    font-size: 0.8rem;
+    font-weight: 500;
+    
+}
+
+.category-button.selected {
+    /* Estilos específicos para el botón seleccionado */
+    font-weight: bold;
+    border: 2px solid black; /* Puedes cambiar el color del borde según tus preferencias */
+}
+
+.category-button:hover {
+    cursor: pointer;
+}

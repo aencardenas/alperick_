@@ -1,0 +1,28 @@
+.vertical-carousel {
+    width: 80%;
+    /* Ancho deseado para el carrusel */
+    margin: 0 auto;
+    /* Centra el carrusel horizontalmente */
+}
+
+.vertical-carousel:hover {
+    cursor: pointer;
+}
+
+/* Estilos de las imágenes verticales */
+.vertical-photos {
+    width: auto;
+    /* Permitir que el ancho se ajuste automáticamente */
+    max-height: 70vh;
+    /* Limitar la altura al 70% del alto de la ventana */
+    max-width: 90%;
+    /* Limitar el ancho al 90% del contenedor */
+    display: block;
+    /* Asegura que las imágenes estén en una línea separada */
+    margin: 0 auto;
+    /* Centra las imágenes dentro del carrusel */
+}
+
+.slick-dots {
+    bottom: -45px;
+}
