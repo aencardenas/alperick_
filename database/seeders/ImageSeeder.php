@@ -16,7 +16,7 @@ class ImageSeeder extends Seeder
     {
         DB::table('images')->truncate();
 
-        $baseURL = 'https://alperick.com/';
+        $baseURL = 'https://alperick.com/alptest/';
 
         $imagenes = [
             [
