@@ -1,0 +1,765 @@
+
+{
+    "COBERTURA": {
+      "vertical": [
+        {
+          "id": 1,
+          "file_name": "DSC_6333-2.webp",
+          "file_path": "https://alperick.com/alptest/assets/BAUTIZO/DSC_6333-2.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 5,
+          "file_name": "DSC_2224.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_2224.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 6,
+          "file_name": "DSC_2386.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_2386.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 8,
+          "file_name": "DSC_5910.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_5910.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 9,
+          "file_name": "DSC_5922.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_5922.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 10,
+          "file_name": "DSC_5986.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_5986.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 11,
+          "file_name": "DSC_6149.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_6149.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 12,
+          "file_name": "DSC_6150.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_6150.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 16,
+          "file_name": "DSC_7436.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_7436.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 18,
+          "file_name": "DSC_7619.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_7619.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 21,
+          "file_name": "DSC_7820.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_7820.webp",
+          "category": "COBERTURA",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        }
+      ],
+      "horizontal": [
+        {
+          "id": 2,
+          "file_name": "DSC_6412.webp",
+          "file_path": "https://alperick.com/alptest/assets/BAUTIZO/DSC_6412.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 3,
+          "file_name": "DSC_6421.webp",
+          "file_path": "https://alperick.com/alptest/assets/BAUTIZO/DSC_6421.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 4,
+          "file_name": "DSC6831ALPE.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC6831ALPE.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 7,
+          "file_name": "DSC_2398.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_2398.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 13,
+          "file_name": "DSC_6467.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_6467.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 14,
+          "file_name": "DSC_7352.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_7352.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 15,
+          "file_name": "DSC_7380.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_7380.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 17,
+          "file_name": "DSC_7558.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_7558.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 19,
+          "file_name": "DSC_7700.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_7700.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 20,
+          "file_name": "DSC_7783.webp",
+          "file_path": "https://alperick.com/alptest/assets/BODA/DSC_7783.webp",
+          "category": "COBERTURA",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    },
+    "CHIAPAS": {
+      "horizontal": [
+        {
+          "id": 22,
+          "file_name": "chiapas-1.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-1.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 23,
+          "file_name": "chiapas-2.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-2.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 24,
+          "file_name": "chiapas-3.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-3.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 25,
+          "file_name": "chiapas-4.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-4.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 26,
+          "file_name": "chiapas-5.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-5.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 27,
+          "file_name": "chiapas-6.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-6.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 28,
+          "file_name": "chiapas-7.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-7.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 29,
+          "file_name": "chiapas-8.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-8.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 30,
+          "file_name": "chiapas-9.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-9.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 31,
+          "file_name": "chiapas-11.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/chiapas-11.webp",
+          "category": "CHIAPAS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        }
+      ],
+      "vertical": [
+        {
+          "id": 32,
+          "file_name": "vert1.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/vert1.webp",
+          "category": "CHIAPAS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 33,
+          "file_name": "vert2.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/vert2.webp",
+          "category": "CHIAPAS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 34,
+          "file_name": "vert3.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/vert3.webp",
+          "category": "CHIAPAS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 35,
+          "file_name": "vert4.webp",
+          "file_path": "https://alperick.com/alptest/assets/CHIAPAS/vert4.webp",
+          "category": "CHIAPAS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    },
+    "DIA_MUERTOS": {
+      "horizontal": [
+        {
+          "id": 36,
+          "file_name": "DSC_1435CUNJAMA.webp",
+          "file_path": "https://alperick.com/alptest/assets/DIA_DE_MUERTOS/DSC_1435CUNJAMA.webp",
+          "category": "DIA_MUERTOS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        }
+      ],
+      "vertical": [
+        {
+          "id": 37,
+          "file_name": "DSC_9475CUNJAMA.webp",
+          "file_path": "https://alperick.com/alptest/assets/DIA_DE_MUERTOS/DSC_9475CUNJAMA.webp",
+          "category": "DIA_MUERTOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 38,
+          "file_name": "DSC_9494CUNJAMA.webp",
+          "file_path": "https://alperick.com/alptest/assets/DIA_DE_MUERTOS/DSC_9494CUNJAMA.webp",
+          "category": "DIA_MUERTOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    },
+    "LOGOS": {
+      "vertical": [
+        {
+          "id": 39,
+          "file_name": "BackgroundMobile.webp",
+          "file_path": "https://alperick.com/alptest/assets/IMG/BackgroundMobile.webp",
+          "category": "LOGOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        }
+      ],
+      "logo": [
+        {
+          "id": 40,
+          "file_name": "LOGOBYN.png",
+          "file_path": "https://alperick.com/alptest/assets/IMG/LOGOBYN.png",
+          "category": "LOGOS",
+          "image_type": "logo",
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    },
+    "RETRATOS": {
+      "vertical": [
+        {
+          "id": 41,
+          "file_name": "retrato-1.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-1.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 42,
+          "file_name": "retrato-2.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-2.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 43,
+          "file_name": "retrato-3.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-3.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 44,
+          "file_name": "retrato-4.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-4.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 45,
+          "file_name": "retrato-5.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-5.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 46,
+          "file_name": "retrato-6.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-6.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 47,
+          "file_name": "retrato-7.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-7.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 49,
+          "file_name": "retrato-9.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-9.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 50,
+          "file_name": "retrato-10.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-10.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 51,
+          "file_name": "retrato-11.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-11.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 52,
+          "file_name": "retrato-12.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-12.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 53,
+          "file_name": "retrato-13.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-13.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 54,
+          "file_name": "retrato-14.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-14.webp",
+          "category": "RETRATOS",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        }
+      ],
+      "horizontal": [
+        {
+          "id": 48,
+          "file_name": "retrato-8.webp",
+          "file_path": "https://alperick.com/alptest/assets/RETRATOS/retrato-8.webp",
+          "category": "RETRATOS",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    },
+    "NAVIDAD": {
+      "vertical": [
+        {
+          "id": 55,
+          "file_name": "sesion-1.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-1.webp",
+          "category": "NAVIDAD",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 56,
+          "file_name": "sesion-2.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-2.webp",
+          "category": "NAVIDAD",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 57,
+          "file_name": "sesion-3.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-3.webp",
+          "category": "NAVIDAD",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 58,
+          "file_name": "sesion-4.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-4.webp",
+          "category": "NAVIDAD",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        }
+      ],
+      "horizontal": [
+        {
+          "id": 59,
+          "file_name": "sesion-5.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-5.webp",
+          "category": "NAVIDAD",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    },
+    "SESIONES": {
+      "horizontal": [
+        {
+          "id": 60,
+          "file_name": "sesion-6.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-6.webp",
+          "category": "SESIONES",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 61,
+          "file_name": "sesion-7.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-7.webp",
+          "category": "SESIONES",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 62,
+          "file_name": "sesion-8.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-8.webp",
+          "category": "SESIONES",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 73,
+          "file_name": "xv6.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv6.webp",
+          "category": "SESIONES",
+          "image_type": "horizontal",
+          "created_at": null,
+          "updated_at": null
+        }
+      ],
+      "vertical": [
+        {
+          "id": 63,
+          "file_name": "sesion-9.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-9.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 64,
+          "file_name": "sesion-10.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-10.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 65,
+          "file_name": "sesion-11.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-11.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 66,
+          "file_name": "sesion-12.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-12.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 67,
+          "file_name": "sesion-12.webp",
+          "file_path": "https://alperick.com/alptest/assets/SESIONES/sesion-12.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 68,
+          "file_name": "xv1.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv1.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 69,
+          "file_name": "xv2.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv2.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 70,
+          "file_name": "xv3.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv3.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 71,
+          "file_name": "xv4.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv4.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 72,
+          "file_name": "xv5.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv5.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 74,
+          "file_name": "xv7.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv7.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 75,
+          "file_name": "xv8.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv8.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 76,
+          "file_name": "xv9.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv9.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 77,
+          "file_name": "xv10.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv10.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 78,
+          "file_name": "xv11.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv11.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 79,
+          "file_name": "xv12.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv12.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        },
+        {
+          "id": 80,
+          "file_name": "xv13.webp",
+          "file_path": "https://alperick.com/alptest/assets/XV/xv13.webp",
+          "category": "SESIONES",
+          "image_type": "vertical",
+          "created_at": null,
+          "updated_at": null
+        }
+      ]
+    }
+  }
